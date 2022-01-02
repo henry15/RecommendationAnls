@@ -13,6 +13,9 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
+library(jsonlite)
+
 hello <- function() {
   print("Hello, world!")
 }
+
